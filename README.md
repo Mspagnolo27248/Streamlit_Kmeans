@@ -5,6 +5,6 @@ Cluster Analysis: Customer Segmentation using K-means Algorithm
       The k-means algorithm is an unsupervised learning model that groups the customers
       that are closest together.
 
-Link: http://18.188.29.115:8501/
+Link: http://3.22.234.41:8501
 
 
